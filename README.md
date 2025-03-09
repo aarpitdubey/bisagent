@@ -75,4 +75,4 @@ PRs are welcome! Open an issue for discussions.
 
 ## 📝 License
 
-GNU License
+[ GPL-3.0](https://github.com/aarpitdubey/bisagent#GPL-3.0-1-ov-file) License
